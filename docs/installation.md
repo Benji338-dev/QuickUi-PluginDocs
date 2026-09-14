@@ -8,11 +8,11 @@ This page explains how to install and answer to the current question on the plug
 2. Open the ToolBox
 3. Search **QuickUI+** in plugin
 
-![ToolBoxInstallation](images/toolboximage.png)
+![ToolBoxInstallation](../images/toolboximage.png)
 
 4. Click on the first one
 5. Install it
 6. Accept **Script injection** : 
 
-![scriptinjectionpannel](images/scriptinjectionpermission.png)
+![scriptinjectionpannel](../images/scriptinjectionpermission.png)
 ## If 
