@@ -2,4 +2,4 @@
 
 
 You can open the main frame by clicking here:
- ![LOGO](..\image/mainframe.png)
+ ![LOGO](..\image\mainframe.png)
