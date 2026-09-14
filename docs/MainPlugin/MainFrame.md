@@ -14,4 +14,5 @@ You can open the main frame by clicking here:
  5. One-TopBar
  6. Textures [TextureFrame](textureframe.md)
 
-and a Parameters Frame
+and a Settings Frame
+[Settings](Settings.md)
