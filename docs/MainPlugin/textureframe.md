@@ -13,3 +13,14 @@ how to use Texture tools :
 
 The texture will be added at your Ui as an ImageLabel.
 ( ScaleType = Tyle, TileSize = {0, 100, 0, 100}
+
+
+## More Info
+
+You can change the **ScaleType** : 
+  - Scretch
+  - Crop
+  - Fit
+  - Tile
+
+to know what you need, refeer to https://create.roblox.com/docs/fr-fr/reference/engine/enums/ScaleType
