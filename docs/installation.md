@@ -15,4 +15,10 @@ This page explains how to install and answer to the current question on the plug
 6. Accept **Script injection** : 
 
 ![scriptinjectionpannel](../images/scriptinjectionpermission.png)
-## If 
+## If you clicked on refuse by error
+
+1 - Click on Plugin on the very top right of ur script.
+![PluginImage](../images/pluginmanagerphoto.png)
+2 - Click on Manage plugin
+3 - click on this button 
+![ButtonImage](../images/changeimage.png)
