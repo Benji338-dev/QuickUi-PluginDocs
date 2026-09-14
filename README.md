@@ -48,8 +48,13 @@ It allows you to, among other things:
 ### Composants
 
 - [Main](docs/MainPlugin/MainFrame.md)
+     - [Tween](docs/MainPlugin/Frames/Tween.md)
+     - [Auto-Scale](docs/MainPlugin/Frames/Auto-Scale.md)
+     - [Auto-Script](docs/MainPlugin/Frames/Auto-Script.md)
+     - [Assets](docs/MainPlugin/Frames/Assets.md)
+     - [One-TopBar](docs/MainPlugin/Frames/One-TopBar.md)
      - [Texture](docs/MainPlugin/Frames/textureframe.md)
-     - 
+       
 - [More Tools](docs/components/text.md)
      - [Images](docs/components/images.md)
 
