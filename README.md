@@ -40,18 +40,17 @@ It allows you to, among other things:
 
 ## 📚 Documentation
 
-### Général
+### General
 
 - [Installation](docs/installation.md)
-- [Démarrage rapide](docs/getting-started.md)
-- [Interface du plugin](docs/interface.md)
+- [link](docs/interface.md)
 
 ### Composants
 
-- [Frames](docs/components/frames.md)
-- [Buttons](docs/components/buttons.md)
-- [Text](docs/components/text.md)
-- [Images](docs/components/images.md)
+- [Main](docs/components/frames.md)
+     - [Buttons](docs/components/buttons.md)
+- [More Tools](docs/components/text.md)
+     - [Images](docs/components/images.md)
 
 ### Fonctionnalités
 
