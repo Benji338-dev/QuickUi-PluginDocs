@@ -12,7 +12,8 @@ how to use Texture tools :
 4. Click on the texture you want to add.
 
 The texture will be added at your Ui as an ImageLabel.
-( ScaleType = Tyle, TileSize = {0, 100, 0, 100}
+
+( ScaleType = Tyle, TileSize = {0, 100, 0, 100}.
 
 
 ## More Info
@@ -23,4 +24,7 @@ You can change the **ScaleType** :
   - Fit
   - Tile
 
-to know what you need, refeer to https://create.roblox.com/docs/fr-fr/reference/engine/enums/ScaleType
+To know what you need, refeer to https://create.roblox.com/docs/fr-fr/reference/engine/enums/ScaleType .
+
+
+You can also change the tile size to what you need.
