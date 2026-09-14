@@ -47,7 +47,7 @@ It allows you to, among other things:
 
 ### Composants
 
-- [Main](docs/components/frames.md)
+- [Main](docs/components/MainWindow.md)
      - [Buttons](docs/components/buttons.md)
 - [More Tools](docs/components/text.md)
      - [Images](docs/components/images.md)
