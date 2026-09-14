@@ -12,6 +12,6 @@ You can open the main frame by clicking here:
  3. Auto-Script
  4. Assets
  5. One-TopBar
- 6. Textures ![TextureFrame](textureframe.md)
+ 6. Textures [TextureFrame](textureframe.md)
 
 and a Parameters Frame
