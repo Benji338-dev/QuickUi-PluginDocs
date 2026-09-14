@@ -14,5 +14,5 @@ This page explains how to install and answer to the current question on the plug
 5. Install it
 6. Accept **Script injection** : 
 
-
+![scriptinjectionpannel](images/scriptinjectionpermission.png)
 ## If 
