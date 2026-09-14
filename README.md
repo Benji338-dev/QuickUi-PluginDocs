@@ -66,7 +66,7 @@ It allows you to, among other things:
 
 ## 🖼️ Aperçu
 
-![QuickUI+](images/plugin.png)
+![QuickUI+](images/LogoQuickui+.png)
 
 ---
 
