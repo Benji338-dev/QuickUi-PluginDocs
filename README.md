@@ -48,7 +48,7 @@ It allows you to, among other things:
 ### Composants
 
 - [Main](docs/MainPlugin/MainFrame.md)
-     - [Texture](../docs/MainPlugin/Texture.md)
+     - [Texture](docs/MainPlugin/textureframe.md)
 - [More Tools](docs/components/text.md)
      - [Images](docs/components/images.md)
 
