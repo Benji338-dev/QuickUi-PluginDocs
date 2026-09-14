@@ -43,7 +43,7 @@ It allows you to, among other things:
 ### General
 
 - [Installation](docs/installation.md)
-- [link](docs/interface.md)
+- [link](Link.md)
 
 ### Composants
 
