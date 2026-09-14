@@ -56,9 +56,11 @@ It allows you to, among other things:
      - [Texture](docs/MainPlugin/Frames/textureframe.md)
 - [More Tools](docs/components/text.md)
      - [Convert](docs/components/images.md)
-     - [Prest](docs/components/images.md)
+     - [Preset](docs/components/images.md)
      - [Zoom](docs/components/images.md)
-     - [Convert](docs/components/images.md)
+     - [Rotate](docs/components/images.md)
+     - [Center](docs/components/images.md)
+     - [Settings](docs/components/images.md)
 
 ### Fonctionnalités
 
