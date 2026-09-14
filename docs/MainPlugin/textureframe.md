@@ -10,3 +10,6 @@ how to use Texture tools :
 
 3. select an ImageLabel/ImageButton.
 4. Click on the texture you want to add.
+
+the texture will be added at your Ui as an ImageLabel
+( ScaleType = Tyle, TileSize = {0, 100, 0, 100}
