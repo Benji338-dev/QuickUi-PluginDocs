@@ -6,7 +6,7 @@ how to use Texture tools :
 2. You will see this window :.
 
 
- ![TextureFrame](textureframe.png)
+ ![TextureFrame](Frame/textureframe.png)
 
 3. select an ImageLabel/ImageButton.
 4. Click on the texture you want to add.
