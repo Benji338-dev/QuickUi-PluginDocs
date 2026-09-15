@@ -27,7 +27,7 @@ Currently, it supports:
 
 By clicking on a button, the corresponding feature panel will appear.
 
-### How to Open the Animator?
+## How to Open the Animator?
 
 The Animator is located in the **Button** tab. There is a button that will open it:
 
