@@ -23,6 +23,10 @@ Next TweenType in devellopement:
 2 - there will be a Tab with 2 buttons on the left side :
       - B for Button Tween
       - T for Text Tween
+
+![TweenTab](TweenTab.png)
+
+
 Bye clicking on a button, the correspondant frame will apear
 
 How to open The Animator ? 
