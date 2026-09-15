@@ -1,38 +1,34 @@
-## Tween
+## 🎞️ Tween
 
-The **Tween Tab** comports multiple functionalities, 
+The **Tween Tab** provides multiple functionalities.
 
- 
-Actually, it support:
+Currently, it supports:
 
-1. Button[Button](ButtonTween.md)
-2. Text[Text](TextTween.md)
-3. And A Ui Animator[Animator](Animator.md)
+1. [Button](ButtonTween.md) Tween
+2. [Text](TextTween.md) Tween
+3. A UI [Animator](Animator.md)
 
-Next TweenType in devellopement:
+### Next Tween Types in Development:
 
 1. Frames
 2. ScrollingFrames
 
-## How to Access the different Features:
+## How to Access the Different Features:
 
-1 - click on the first tab on the main windows of the plugin
+1 - Click on the first tab in the main window of the plugin.
 
 ![TweenImage](image.png)
 
-2 - there will be a Tab with 2 buttons on the left side :
-      - B for Button Tween
-      - T for Text Tween
+2 - A tab with 2 buttons will appear on the left side:
+- **B** for Button Tween
+- **T** for Text Tween
 
 ![TweenTab](TweenTab.png)
 
+By clicking on a button, the corresponding feature panel will appear.
 
-Bye clicking on a button, the correspondant frame will apear
+### How to Open the Animator?
 
-How to open The Animator ? 
-
-The Animator is in the **Button** Tab; there is a button who will open it:
+The Animator is located in the **Button** tab. There is a button that will open it:
 
 ![UiAnimatorOpenButton](UiAnimatorOpen.png)
-
-
