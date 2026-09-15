@@ -3,7 +3,7 @@
 The **Tween Tab** comports multiple functionalities, 
 
  
-Actually, its having 2 différents TweenType:
+Actually, it support:
 
 1. Button[Button]
 2. Text[Text]
