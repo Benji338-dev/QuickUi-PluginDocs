@@ -49,6 +49,9 @@ It allows you to, among other things:
 
 - [Main](docs/MainPlugin/MainFrame.md) :
      - [Tween](docs/MainPlugin/Frames/Tween/Tween.md)
+         - [ButtonTween](docs/MainPlugin/Frames/Tween/ButtonTween.md)
+         - [TextTween](docs/MainPlugin/Frames/Tween/TextTween.md)
+         - [Animator](docs/MainPlugin/Frames/Tween/Animator.md)
      - [Auto-Scale](docs/MainPlugin/Frames/Auto-Scale.md)
      - [Auto-Script](docs/MainPlugin/Frames/Auto-Script.md)
      - [Assets](docs/MainPlugin/Frames/Assets.md)
